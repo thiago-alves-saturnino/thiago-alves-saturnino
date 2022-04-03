@@ -33,8 +33,4 @@
 ## 📈 Estatísticas
    
 [![thiago-alves-saturnino GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-alves-saturnino&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-alves-saturnino&layout=compact)](https://github.com/thiago-alves-saturnino/github-readme-stats)
-
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-alves-saturnino&layout=compact&langs_count=7&theme=tokyonight"/>
