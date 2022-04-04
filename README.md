@@ -34,3 +34,5 @@
    
 [![thiago-alves-saturnino GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-alves-saturnino&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-alves-saturnino&layout=compact&langs_count=7&theme=tokyonight"/>
+
+![Snake animation](https://github.com/braziltaiany/braziltaiany/blob/output/github-contribution-grid-snake.svg)
